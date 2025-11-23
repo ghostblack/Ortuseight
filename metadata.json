@@ -1,0 +1,5 @@
+{
+  "name": "Redesign Ortusight Website",
+  "description": "A responsive hero section recreation with vertical columns, typing text animation, and a dark aesthetic using Tailwind CSS.",
+  "requestFramePermissions": []
+}
